@@ -28,5 +28,4 @@ The goal is to demonstrate practical Excel reporting skills for data entry, comp
 - Business reporting
 - Data organisation and file management
 
-## CV Line
-Designed an interactive Excel sales dashboard using formulas, charts, filters, and summary tables for sales and operational reporting.
+
